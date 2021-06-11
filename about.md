@@ -9,5 +9,5 @@ Aquí les vamos a aclarar la duda, acerca de qué es CoDe Pretzel.
 
 **Objetivos**: Ser una organización que impulse el desarrollo económico de la región apoyando a emprendedores y empresas mediante proyectos a la medida en el mercado de sistemas embebidos, incentivando el interés a emprender proyectos de este mercado mediante pláticas, conferencias y eventos sociales impactando desde jóvenes  estudiantes hasta empresarios.
 
-![imagen de perfil](./assets/images/78636898_10220934285129769_1503841803231559680_n.jpg)
+![imagen de perfil](./assets/images/26685410_10214892043037493_2740588983134637665_o.jpg)
 
