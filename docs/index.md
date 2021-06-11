@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Menú
 
-You can use the [editor on GitHub](https://github.com/HerLeonidaz/HerLeonidaz.github.oi/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[¿Quienes somos?](./about.md) <br/>
+[Nuestra Meta](./services.md) <br/>
+[Contáctame](./contact.md) <br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![imagen de perfil](./assets/images/41505267_2173645822874507_4331150617352339456_n.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Hola 
+Te doy la bienvenida a este espacio y te invito a seguirnos en nuestras redes sociales
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HerLeonidaz/HerLeonidaz.github.oi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Comunidad Facebook](https://www.facebook.com/CoDePretzel/) <br/>
+[Grupo Facebook](https://www.facebook.com/groups/425161431009869) <br/>
+[Discord](https://discord.gg/aYgB5R2w)<br/>
